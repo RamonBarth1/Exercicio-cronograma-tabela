@@ -1,0 +1,41 @@
+header,
+footer {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+#imagem {
+    width: 300px;
+}
+
+th,
+td {
+    height: 25px;
+    padding: 15px;
+    border: 2px black solid;
+}
+
+tfoot {
+    height: 150px;
+}
+
+#relogio {
+    align-content: center;
+    width: 50px;
+}
+
+.hora,
+td {
+    text-align: center;
+    font-weight: bold;
+}
+
+#growdev {
+    text-align: center;
+    width: 100px;
+}

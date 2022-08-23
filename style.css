@@ -15,7 +15,7 @@ table {
 }
 
 h1 {
-    border: 2px double black;
+    border: 2px double rgb(10, 1, 1);
     border-radius: 10px;
     max-width: 20%;
     margin-left: 720px;
